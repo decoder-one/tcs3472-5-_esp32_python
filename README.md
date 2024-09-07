@@ -3,7 +3,7 @@ Here is a working circuit using a TCS3472 and an ESP32c3 Wroom.
 
 README.md - this file
 
-circuit.pdf - 2 parts circit
+circuit.png - 2 parts circit
 
 esp32c3 mini_rgb-sensor_tcs3472_python.fzz - fritzing file
 
