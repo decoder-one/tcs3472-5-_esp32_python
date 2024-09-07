@@ -5,7 +5,7 @@ README.md - this file
 
 circuit.pdf - 2 parts circit
 
-esp32wroom_rgb-sensor_tcs3472_python.fzz - fritzing file
+esp32c3 mini_rgb-sensor_tcs3472_python.fzz - fritzing file
 
 tcs34725.py - library
 
